@@ -1,5 +1,5 @@
-def in_autotests_we_trust(a, b):
-    if a == b:
+def in_autotests_we_trust(a, Kobe):
+    if a == Kobe:
         print('Test passed')
     else:
         print('Test failed')
